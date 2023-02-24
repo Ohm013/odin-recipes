@@ -1,0 +1,42 @@
+* {
+    font-family: 'Lucida Sans', Verdana, sans-serif ;
+}
+
+
+.headingg {
+    color: brown ;
+    background-color:lightcoral;
+    text-align: center ;
+
+}
+.subp {
+    font-weight: bold ;
+
+}
+
+.heading.sub{
+    color:cornflowerblue;
+    font-size: 28px ;
+    
+}
+
+.food {
+
+    color:lightcoral ;
+    font-size: 19px ;
+    font-weight: 600 ;
+}
+
+img {
+    
+    width: 400px ;
+    height: 300px ;
+
+}
+
+.steps {
+
+    font-weight: bold ;
+    color:blueviolet ;
+    font-size: 20px ;
+}
